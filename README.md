@@ -5,14 +5,14 @@
 
 - 🌱 I’m currently learning **Lightning Web Components, Omnistudio**
 
-- 💬 Ask me about **Apex, Triggers, SOQL, Async Apex, visual force**
+- 💬 Ask me about **Apex, Triggers, SOQL, Async Apex, visualForce**
 
 - 📫 How to reach me **shuklaabhay126@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/abhay-shukla-400a84148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abhay-shukla-400a84148" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abhaykumarshukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhaykumarshukla/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhay-shukla-400a84148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay-shukla-400a84148" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhaykumarshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaykumarshukla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
