@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Lightning Web Components, Omnistudio**
 
-- 💬 Ask me about **Apex, Triggers, SOQL, Async Apex, visualForce**
+- 💬 Ask me about **Apex, Triggers, SOQL, Async Apex, visual force, Sales Cloud, Service Cloud, Experience Cloud**
 
 - 📫 How to reach me **shuklaabhay126@gmail.com**
 
